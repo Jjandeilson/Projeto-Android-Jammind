@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_inicio_black"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/nav_salas_aluno"
+            android:icon="@drawable/ic_salas_black"
+            android:title="Salas" />
+        <item
+            android:id="@+id/nav_tools_aluno"
+            android:icon="@drawable/ic_mural_black"
+            android:title="Mural"/>
+        <item
+            android:id="@+id/nav_send_album"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Álbum" />
+        <item
+            android:id="@+id/nav_share_sair"
+            android:icon="@drawable/ic_sair_black"
+            android:title="Sair" />
+    </group>
+
+</menu>

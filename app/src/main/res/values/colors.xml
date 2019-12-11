@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#995DFF</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="tela_carregamento">#D8000000</color>
+    <color name="cor_hint">#FFFFFF</color>
+    <color name="color_box">#099631</color>
+    <color name="placeholder">#CCFFFFFF</color>
+    <color name="botao_logar">#7E39FB</color>
+</resources>
